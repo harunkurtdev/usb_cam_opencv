@@ -14,4 +14,7 @@ if you could download from github, you will make your workspace with catkin_make
 
 Also, you must do 'chmod +x' .py file at the /src path 
 
+## Thirdly 
+
+In addition, you may run with roslaunch from usb_cam-test.launch inside /launch file 
 
