@@ -10,7 +10,7 @@ project(usb_cam_opencv)
 find_package(catkin REQUIRED COMPONENTS
   roscpp
   rospy
-  std.msgs
+  std_msgs
 )
 
 ## System dependencies are found with CMake's conventions
